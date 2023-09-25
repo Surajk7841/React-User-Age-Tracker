@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-User-Age-Tracker/static/css/main.4b908457.css",
+    "main.js": "/React-User-Age-Tracker/static/js/main.609d53d8.js",
+    "index.html": "/React-User-Age-Tracker/index.html",
+    "main.4b908457.css.map": "/React-User-Age-Tracker/static/css/main.4b908457.css.map",
+    "main.609d53d8.js.map": "/React-User-Age-Tracker/static/js/main.609d53d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b908457.css",
+    "static/js/main.609d53d8.js"
+  ]
+}
